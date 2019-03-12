@@ -9,7 +9,7 @@ In hopes in creating a society with an ingrained sense of environmental wellbein
 
 ## How It Works
 
-[![GitHub Issues](https://img.shields.io/badge/Full%20Circle-Sign%20%20Up-green.svg)](https://aqueous-thicket-90325.herokuapp.com)
+[![GitHub Issues](https://img.shields.io/badge/Full%20Circle-Sign%20%20Up-green.svg)](https://evening-peak-89386.herokuapp.com)
 
 * Sign up with an email and password
 * Go to any recycling center to recycle your bottles and cans
